@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinTodoList</string>
+    <string name="enter_todo_item">Enter Todo Item</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_remove">Remove</string>
+    <string name="example">Example:</string>
+</resources>
